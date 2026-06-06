@@ -1,7 +1,4 @@
-# Phase planning docs
 phases/
-*.md
-
 *.iml
 .gradle
 /local.properties
@@ -11,9 +8,11 @@ phases/
 /.idea/workspace.xml
 /.idea/navEditor.xml
 /.idea/assetWizardSettings.xml
+design.md
 .DS_Store
 /build
 /captures
 .externalNativeBuild
 .cxx
 local.properties
+plan.md
